@@ -10,7 +10,7 @@ summary(nilai)
 var(nilai)
 simpBaku=var(nilai)
 sqrt(simpBaku)
-nilai_csv<-read.csv("C:/Users/Thoriq/Documents/Belajar R/nilai.csv")
+nilai_csv<-read.csv("nilai.csv")
 nilai_csv
 nilai_csv[1]
 sum(nilai_csv[1])
