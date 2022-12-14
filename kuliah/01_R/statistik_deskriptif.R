@@ -1,0 +1,16 @@
+nilai<-c(59,60,70,80,90,100,60)
+nilai
+dim(nilai)
+mean(nilai)
+median(nilai)
+rata=sum(nilai)/length(nilai)
+range(nilai)
+diff(range(nilai))
+summary(nilai)
+var(nilai)
+simpBaku=var(nilai)
+sqrt(simpBaku)
+nilai_csv<-read.csv("C:/Users/Thoriq/Documents/Belajar R/nilai.csv")
+nilai_csv
+nilai_csv[1]
+sum(nilai_csv[1])
