@@ -1,5 +1,5 @@
-# NormalitasLinearitasHomogenitas
-nilai<-read.csv("C:/Users/Thoriq/Documents/BelajarR/02_Data/nilai3.csv")
+# Normalitas, Linearitas, Homogenitas
+nilai<-read.csv("nilai.csv")
 x=nilai$UTS
 y=nilai$UAS
 installed.packages("moments")
