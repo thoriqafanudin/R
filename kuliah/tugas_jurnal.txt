@@ -1,0 +1,10 @@
+Judul
+sumber
+data
+visualisasi data: bar, scatter,
+statistik deskriptif
+uji asumsi
+uji rata-rata
+uji F
+uji T
+uji anova
