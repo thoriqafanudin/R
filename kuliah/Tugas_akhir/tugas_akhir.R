@@ -1,4 +1,4 @@
-dataku <- read.csv('C:/Users/Thoriq/Documents/github/R/kuliah/Tugas_akhir/dataku.csv')
+dataku <- read.csv('dataku.csv')
 dataku$Nilai_tengah
 dataku$Control_group_frequency
 dataku$Experiment_group_frequency
