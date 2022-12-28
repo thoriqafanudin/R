@@ -1,6 +1,7 @@
-data_iva <- read.csv('iva.csv')
-pretest = data_iva$pretest
-postest = data_iva$postest
+data_1 <- read.csv('iva_muhi.csv')
+
+pretest = data_1$pretest
+postest = data_1$postest
 nama = data_iva$nama
 
 library(plotly)
